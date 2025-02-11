@@ -51,11 +51,26 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 ## 3️⃣ Influenza Season in the United States
 
 - **Objective:**  
- The objective of this Tableau report is to provide an in-depth visualization of the influenza season in the United States, tracking seasonal variations in influenza-related cases and deaths over multiple years. This report aims to help public health authorities, researchers, and healthcare professionals understand the timing, severity, and geographical spread of influenza, allowing them to make informed decisions for resource allocation, vaccination campaigns, and public health responses..
+ The objective of this Tableau report is to provide an in-depth visualization of the influenza season in the United States, tracking seasonal variations in influenza-related cases and deaths over multiple years. This report aims to help public health authorities, researchers, and healthcare professionals understand the timing, severity, and geographical spread of influenza, allowing them to make informed decisions for resource allocation, vaccination campaigns, and public health responses.
 
 
 - **Preview:**  
   ➡️ [Influenza Season in the United States Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaSeasonintheUnitedStates/Story1)  
+  *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+
+---
+
+---
+
+
+## 4️⃣ Rockbuster Online Video Service Strategy - Top 10 Countries with the Most Customers
+
+- **Objective:**  
+ The objective of this Tableau report is to analyze and visualize the geographical distribution of Rockbuster Online Video Service customers, focusing on the top 10 countries with the most customers. By examining customer data across different regions, this report aims to provide strategic insights into market presence, customer engagement, and regional performance. The insights from this report will support decision-making for targeted marketing strategies, content localization, and expansion plans to optimize customer acquisition and retention in key global markets.
+
+
+- **Preview:**  
+  ➡️ [Top 10 Countries with the Most Customers Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/RockbusterOnlineVideoServiceStrategy/Sheet1)  
   *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
 
 ---
