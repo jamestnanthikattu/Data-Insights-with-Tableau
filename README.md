@@ -1,6 +1,6 @@
 # Tableau Data Visualizations
 
-Welcome to my **Tableau Projects Repository**! This repository showcases various data visualizations I have created using **Tableau**, demonstrating my skills in **data analysis, storytelling, and business intelligence**.
+Welcome to James T Nanthikattu's **Tableau Projects Repository**! This repository showcases various data visualizations I have created using **Tableau**, demonstrating my skills in **data analysis, storytelling, and business intelligence**.
 
 ## 📊 Tableau Public Profile  
 Explore my interactive dashboards and visualizations on **Tableau Public**:  
