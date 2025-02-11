@@ -22,6 +22,29 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 - ➡️ [Influenza Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsDataVisualization/BubbleChart)  
 *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
 
+---
+
+## 2️⃣ Influenza Vaccination Rate vs. Deaths Data Analysis
+
+- **Objective:**  
+  This analysis focuses on visualizing the correlation between influenza vaccination rates and influenza-related deaths in the 65+ age group. By investigating vaccination coverage and its relationship with mortality rates, the report offers insights into the effectiveness of vaccination programs in reducing deaths.
+
+- **Key Features:**
+  - **Bubble Chart Visualization**  
+    Displays vaccination rates versus death rates in a bubble chart format, illustrating how vaccination levels impact the number of deaths.
+  - **Vaccination Rate Focus:**  
+    Analyzes vaccination coverage for individuals aged 65 and above and how it relates to influenza mortality.
+  - **Comparative Insights:**  
+    Offers insights by comparing regions with varying vaccination rates to identify potential areas for improvement.
+  - **Health Policy Impact:**  
+    Assists policymakers in evaluating the effectiveness of vaccination strategies and where more emphasis may be needed.
+
+- **Preview:**  
+  ➡️ [Vaccination Rate vs Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/VaccinationRateVsDeaths/BubbleChart)  
+  *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+
+---
+
 ## Tools Used:
 - **Tableau:** Data visualization and dashboard creation tool.
 - **Public Data Sources:** Data sources related to influenza-related deaths and population statistics (include links if publicly available).
