@@ -15,4 +15,4 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 - **Preview:**
 - ➡️ [Influenza Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsDataVisualization/BubbleChart)  
 *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
-  ![Influenza Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsDataVisualization/BubbleChart)
+ 
