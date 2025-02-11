@@ -27,17 +27,19 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 ## 2️⃣ Influenza Vaccination Rate vs. Deaths Data Analysis
 
 - **Objective:**  
-  This analysis focuses on visualizing the correlation between influenza vaccination rates and influenza-related deaths in the 65+ age group. By investigating vaccination coverage and its relationship with mortality rates, the report offers insights into the effectiveness of vaccination programs in reducing deaths.
+ The objective of this Tableau report is to explore and visualize the trends in influenza-related deaths across different states in the USA over multiple years. By analyzing this data, the report aims to highlight regional variations, identify spikes in mortality, and support health professionals and policymakers in targeting interventions where they are most needed. This interactive visualization enables a better understanding of how influenza death rates change over time at the state level.
 
 - **Key Features:**
-  - **Bubble Chart Visualization**  
-    Displays vaccination rates versus death rates in a bubble chart format, illustrating how vaccination levels impact the number of deaths.
-  - **Vaccination Rate Focus:**  
-    Analyzes vaccination coverage for individuals aged 65 and above and how it relates to influenza mortality.
-  - **Comparative Insights:**  
-    Offers insights by comparing regions with varying vaccination rates to identify potential areas for improvement.
-  - **Health Policy Impact:**  
-    Assists policymakers in evaluating the effectiveness of vaccination strategies and where more emphasis may be needed.
+  - **State-Level Breakdown**  
+   Visualizes influenza-related deaths across different states in the USA, allowing users to compare mortality trends between regions..
+  - **Yearly Trends:**  
+    Tracks and displays how influenza death rates fluctuate year over year, identifying any noticeable increases or declines.
+  - **Interactive Filters:**  
+    Allows users to filter the data by specific years or states for a more detailed, focused analysis of the trends.
+  - **Regional Comparisons:**  
+    Highlights which states have experienced the highest or lowest death rates and allows for comparison across states with similar population sizes or healthcare resources.
+  - **Death Rate Insights:**  
+    Provides data-driven insights into the effectiveness of public health initiatives, vaccination programs, and other factors affecting mortality. 
 
 - **Preview:**  
   ➡️ [Vaccination Rate vs Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/VaccinationRateVsDeaths/BubbleChart)  
