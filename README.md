@@ -50,5 +50,6 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 ## Tools Used:
 - **Tableau:** Data visualization and dashboard creation tool.
 - **Public Data Sources:** Data sources related to influenza-related deaths and population statistics (include links if publicly available).
+- **Databases:** PostgreSQL, BigQuery
 
  
