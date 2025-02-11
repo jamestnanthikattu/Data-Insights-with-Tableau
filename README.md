@@ -47,6 +47,19 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 
 ---
 
+
+## 3️⃣ Influenza Season in the United States
+
+- **Objective:**  
+ The objective of this Tableau report is to provide an in-depth visualization of the influenza season in the United States, tracking seasonal variations in influenza-related cases and deaths over multiple years. This report aims to help public health authorities, researchers, and healthcare professionals understand the timing, severity, and geographical spread of influenza, allowing them to make informed decisions for resource allocation, vaccination campaigns, and public health responses..
+
+
+- **Preview:**  
+  ➡️ [Influenza Season in the United States Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaSeasonintheUnitedStates/Story1)  
+  *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+
+---
+
 ## Tools Used:
 - **Tableau:** Data visualization and dashboard creation tool.
 - **Public Data Sources:** Data sources related to influenza-related deaths and population statistics (include links if publicly available).
