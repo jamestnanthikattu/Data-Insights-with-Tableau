@@ -60,8 +60,6 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 
 ---
 
----
-
 
 ## 4️⃣ Rockbuster Online Video Service Strategy - Top 10 Countries with the Most Customers
 
@@ -75,9 +73,21 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 
 ---
 
+## 5️⃣ Top 5 Spending Customers
+
+- **Objective:**  
+ The objective of this Tableau report is to identify and visualize the top 5 customers who have the highest spending on the Rockbuster Online Video Service platform. By analyzing the spending patterns of these customers, the report aims to provide valuable insights into their purchasing behavior, preferences, and contributions to revenue. This information will help inform targeted customer retention strategies, personalized offers, and identify opportunities for maximizing revenue from high-value customers.
+
+
+- **Preview:**  
+  ➡️ [Top 5 Spending Customers Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/Top5SpendingCustomers/Sheet1)  
+  *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+
 ## Tools Used:
 - **Tableau:** Data visualization and dashboard creation tool.
 - **Public Data Sources:** Data sources related to influenza-related deaths and population statistics (include links if publicly available).
 - **Databases:** PostgreSQL, BigQuery
+
+
 
  
