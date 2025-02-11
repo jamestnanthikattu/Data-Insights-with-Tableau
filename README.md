@@ -21,4 +21,9 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 - **Preview:**
 - ➡️ [Influenza Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsDataVisualization/BubbleChart)  
 *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+
+## Tools Used:
+- **Tableau:** Data visualization and dashboard creation tool.
+- **Public Data Sources:** Data sources related to influenza-related deaths and population statistics (include links if publicly available).
+
  
