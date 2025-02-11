@@ -42,7 +42,7 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
     Provides data-driven insights into the effectiveness of public health initiatives, vaccination programs, and other factors affecting mortality. 
 
 - **Preview:**  
-  ➡️ [Vaccination Rate vs Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/VaccinationRateVsDeaths/BubbleChart)  
+  ➡️ [Vaccination Rate vs Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsbyYearinUSAStatesInMonths/FinalLineChartMonths)  
   *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
 
 ---
