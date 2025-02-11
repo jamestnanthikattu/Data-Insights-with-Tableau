@@ -4,7 +4,5 @@ Welcome to my **Tableau Projects Repository**! This repository showcases various
 
 ## 📊 Tableau Public Profile  
 Explore my interactive dashboards and visualizations on **Tableau Public**:  
-➡️ <a href="https://public.tableau.com/app/profile/james.nanthikattu5986/vizzes" target="_blank">James Nanthikattu's Tableau Public Profile</a>
-
-
-
+➡️ [James Nanthikattu's Tableau Public Profile](https://public.tableau.com/app/profile/james.nanthikattu5986/vizzes)  
+*(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
