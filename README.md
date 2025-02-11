@@ -13,7 +13,11 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 - **Objective:** The objective of this Tableau bubble chart is to explore and visualize the relationship between the population of individuals aged 65 and above and the corresponding influenza-related deaths within the same age group. The chart provides a clear, interactive way to understand how population size and death rates correlate, helping public health professionals make informed decisions regarding the elderly population's health.  
 - **Key Features:**
   -  **Bubble Chart Visualization**  
-    The bubble chart visually represents the relationship between the population of the 65+ age group and influenza-related deaths, using the size and position of the bubbles to indicate the data points.  
+    The bubble chart visually represents the relationship between the population of the 65+ age group and influenza-related deaths, using the size and position of the bubbles to indicate the data points.
+  - **Age Group 65+ Focus:** Concentrates on the population aged 65 and above, providing insights into this key demographic's health trends.
+  - **Interactive Filtering:** Allows users to interact with the chart to filter by various time periods or other relevant metrics for deeper analysis.
+  - **Trend Analysis:** The chart highlights patterns and trends in the data, including seasonal spikes in influenza-related deaths.
+  - **Data-Driven Decisions:** Empowers researchers and policymakers with data-driven insights to address influenza-related fatalities among older adults.  
 - **Preview:**
 - ➡️ [Influenza Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsDataVisualization/BubbleChart)  
 *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
