@@ -24,7 +24,7 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
 
 ---
 
-## 2️⃣ Influenza Vaccination Rate vs. Deaths Data Analysis
+## 2️⃣ Influenza Deaths by Year in USA States (in Months)
 
 - **Objective:**  
  The objective of this Tableau report is to explore and visualize the trends in influenza-related deaths across different states in the USA over multiple years. By analyzing this data, the report aims to highlight regional variations, identify spikes in mortality, and support health professionals and policymakers in targeting interventions where they are most needed. This interactive visualization enables a better understanding of how influenza death rates change over time at the state level.
@@ -42,7 +42,7 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
     Provides data-driven insights into the effectiveness of public health initiatives, vaccination programs, and other factors affecting mortality. 
 
 - **Preview:**  
-  ➡️ [Vaccination Rate vs Deaths Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsbyYearinUSAStatesInMonths/FinalLineChartMonths)  
+  ➡️ [Influenza Deaths by Year in USA States (in Months) Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/InfluenzaDeathsbyYearinUSAStatesInMonths/FinalLineChartMonths)  
   *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
 
 ---
