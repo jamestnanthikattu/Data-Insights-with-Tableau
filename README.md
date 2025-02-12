@@ -83,6 +83,17 @@ Explore my interactive dashboards and visualizations on **Tableau Public**:
   ➡️ [Top 5 Spending Customers Dashboard](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/Top5SpendingCustomers/Sheet1)  
   *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
 
+## 6️⃣ CO2 Emission by Region
+
+- **Objective:**  
+This Tableau report analyzes CO₂ emissions by region, providing insights into emission trends across different geographic areas. The report aims to identify high-emission regions, track historical changes, and highlight potential factors influencing CO₂ levels. This visualization helps stakeholders, policymakers, and researchers make data-driven decisions to address climate change effectively.
+
+
+- **Preview:**  
+  ➡️ [CO2 Emission by Region](https://public.tableau.com/app/profile/james.nanthikattu5986/viz/CO2ProductionbyRegion_17393967613580/Sheet1)  
+  *(Right-click and select "Open Link in New Tab" or Ctrl + Click)*
+  
+
 ## Tools Used:
 - **Tableau:** Data visualization and dashboard creation tool.
 - **Public Data Sources:** Data sources related to influenza-related deaths and population statistics.
